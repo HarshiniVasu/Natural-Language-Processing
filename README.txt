@@ -8,7 +8,10 @@ FILES:
 
 'victim.py' is a sub module file that is called in infoextract.py.
 
-We need to have the zipped stanford core nlp dependency folder in the same directory as other files. Stanford core nlp's latest version can be downloaded from the Internet. This folder will be unzipped when we run the shell script <infoextract.sh>. Please make sure the unzipped folder of stanford Core NLP is in the same directory.
+We need to have the zipped stanford core nlp dependency folder in the same directory as other files. 
+Stanford core nlp's latest version can be downloaded from the Internet. 
+This folder will be unzipped when we run the shell script <infoextract.sh>. 
+Please make sure the unzipped folder of stanford Core NLP is in the same directory.
 
 'victim.txt' contains the synonyms related to terrorism.
 
