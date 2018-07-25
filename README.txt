@@ -1,6 +1,8 @@
 
+In this project, we have tried to extract information from unstructured Latin America terrorism articles.
+
 Programming language - python 2.7
-CADE machine used for testing 'lab1-15.eng.utah.edu'
+The program was tested on a CADE machine.
 
 FILES:
 
